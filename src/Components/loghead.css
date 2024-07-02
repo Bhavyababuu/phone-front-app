@@ -1,0 +1,8 @@
+.head.navbar {
+    background-color: #08283f;
+    box-shadow: 0 4px 8px rgba(152, 103, 158, 0.1);
+  }
+  .head.navbar-brand, .nav-link {
+    color: #f5f2f7 !important;
+  }
+  

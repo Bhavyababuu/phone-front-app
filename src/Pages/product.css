@@ -1,0 +1,7 @@
+.h h5,p,h4{
+    color: black;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  margin-left: 41px;
+  margin-top: 10px;
+}
