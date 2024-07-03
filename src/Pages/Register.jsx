@@ -35,7 +35,7 @@ function Register() {
         address:address,
     };
     try{
-      const res = await axios.post("http://localhost:5000/api/user/userreg",newuser)
+      const res = await axios.post("https://phone-back-app.vercel.app/api/user/userreg",newuser)
       console.log(res.data)
       alert(" Registration Successfull.. Please Login");
      
